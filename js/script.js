@@ -3,17 +3,12 @@ var noBtn = document.getElementById("no");
 var yesBtn = document.getElementById("yes");
 
 var messages = [
-  "Are you sure?",
-  "Really Sure?",
-  "Are you positive??",
-  "Honey please",
-  "Just think about it",
-  "If you say no, I'll be sad",
-  "I'll be very sad",
-  "I'll be very very very sad",
-  "You're breaking my heart :(",
-  "ok fine",
-  "Nah",
+"NOT COZY",
+  "NOT COZY",
+  "NOT COZY",
+  "NOT COZY",
+  "NOT COZY",
+  "NOT COZY",
 ];
 
 var messageIndex = 0;
